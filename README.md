@@ -1,4 +1,4 @@
-Back-end shop API
+Back-End shop RESTful API
 
 Technologies Used:
 
