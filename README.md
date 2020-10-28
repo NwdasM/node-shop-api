@@ -12,5 +12,5 @@ Technologies Used:
 
 Uses Authoriztion for users,products
 
-*Creates, Reades, Update, Delete products aswell as users
+*Creates, Reads, Update, Delete products aswell as users
 
